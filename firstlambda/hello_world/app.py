@@ -25,4 +25,4 @@ def lambda_handler(event, context):
         Return doc: https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-proxy-integrations.html
     """
     sub = " Welcome to India"
-    return event + sub
+    return event
