@@ -1,1 +1,0 @@
-# AWS_SAM_PROJECT
